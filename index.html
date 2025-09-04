@@ -11,7 +11,13 @@
       <label for="precio_item">Precio por ítem:</label>
       <input type="number" id="precio_item"/>
       <input type="submit" value="Totalizar" id="totalizar-button" />
-    </form>
+      <select id="Estado">
+        <option value=""> Seleccionar Estado</option>
+        <option value="CA"> CA</option>
+        <option value="AL"> AL</option>
+        <option value="NV"> NV</option>
+        <option value="UT"> UT</option>
+      </select>    </form>
     <div id="resultado-div"></div>
 
     <script type="module" src="./src/presenter.js"></script>
