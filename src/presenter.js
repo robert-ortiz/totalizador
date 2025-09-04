@@ -10,5 +10,7 @@ form.addEventListener('submit', (event) => {
   const cantitems = Number.parseInt(cant_items.value);
   const precioitem = Number.parseInt(precio_item.value);
 
-  div.innerHTML = '<p>' + '</p>';
+  const total = cantitems * precioitem;
+
+  div.innerHTML = '<p>' + total + '</p>';
 });

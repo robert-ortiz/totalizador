@@ -1,16 +1,35 @@
 [
   {
-    "sha": "HEAD",
+    "sha": "d2e11e0c22173293270ada093f18d7d8fd738f89",
     "author": "Robert",
     "commit": {
       "date": "2025-09-04T13:42:59.000Z",
       "message": "feat: interfaz para ingresar precio por item",
-      "url": "https://github.com/robert-ortiz/totalizador/commit/HEAD"
+      "url": "https://github.com/robert-ortiz/totalizador/commit/d2e11e0c22173293270ada093f18d7d8fd738f89"
     },
     "stats": {
       "total": 47,
       "additions": 16,
       "deletions": 31,
+      "date": "2025-09-04"
+    },
+    "coverage": 0,
+    "test_count": 0,
+    "failed_tests": 0,
+    "conclusion": "neutral"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Robert",
+    "commit": {
+      "date": "2025-09-04T13:47:20.000Z",
+      "message": "fix: interfaz para ingresar precio por item",
+      "url": "https://github.com/robert-ortiz/totalizador/commit/HEAD"
+    },
+    "stats": {
+      "total": 8,
+      "additions": 5,
+      "deletions": 3,
       "date": "2025-09-04"
     },
     "coverage": 0,
