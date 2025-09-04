@@ -1,3 +1,3 @@
-export default function CalcularPrecioNeto(){
-    return 60;
+export default function CalcularPrecioNeto(items,precioitem){
+    return items*precioitem;
 }
