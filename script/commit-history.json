@@ -76,12 +76,12 @@
     "conclusion": "neutral"
   },
   {
-    "sha": "HEAD",
+    "sha": "c8b10d81c0b3ddf5548e066ab5cfd1f7972a3c14",
     "author": "Robert",
     "commit": {
       "date": "2025-09-04T14:35:27.000Z",
       "message": "feat: Test en rojo para calcular precio neto",
-      "url": "https://github.com/robert-ortiz/totalizador/commit/HEAD"
+      "url": "https://github.com/robert-ortiz/totalizador/commit/c8b10d81c0b3ddf5548e066ab5cfd1f7972a3c14"
     },
     "stats": {
       "total": 7,
@@ -93,5 +93,24 @@
     "test_count": 1,
     "failed_tests": 1,
     "conclusion": "failure"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Robert",
+    "commit": {
+      "date": "2025-09-04T14:43:21.000Z",
+      "message": "feat: Test en verde para calcular el precio neto",
+      "url": "https://github.com/robert-ortiz/totalizador/commit/HEAD"
+    },
+    "stats": {
+      "total": 7,
+      "additions": 5,
+      "deletions": 2,
+      "date": "2025-09-04"
+    },
+    "coverage": 100,
+    "test_count": 1,
+    "failed_tests": 0,
+    "conclusion": "success"
   }
 ]

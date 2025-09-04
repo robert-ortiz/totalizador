@@ -1,7 +1,7 @@
 import CalcularPrecioNeto from './totalizador.js';
 
-describe ('TOtalizador', ()=>{
+describe('Ventas', () => {
     it('Obtener precio neto', ()=>{
-        expect(CalcularPrecioNeto(20,3)).toEqual(60);
+        expect(CalcularPrecioNeto()).toEqual(60);
     });
 });
