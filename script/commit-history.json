@@ -1,0 +1,21 @@
+[
+  {
+    "sha": "HEAD",
+    "author": "Robert",
+    "commit": {
+      "date": "2025-09-04T13:42:59.000Z",
+      "message": "feat: interfaz para ingresar precio por item",
+      "url": "https://github.com/robert-ortiz/totalizador/commit/HEAD"
+    },
+    "stats": {
+      "total": 47,
+      "additions": 16,
+      "deletions": 31,
+      "date": "2025-09-04"
+    },
+    "coverage": 0,
+    "test_count": 0,
+    "failed_tests": 0,
+    "conclusion": "neutral"
+  }
+]
